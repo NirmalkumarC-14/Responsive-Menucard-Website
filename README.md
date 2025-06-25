@@ -1,2 +1,1 @@
-# Responsive-Menucard-Website
-Sure! Here's a concise abstract under **350 characters**:  > A responsive digital menu card built using HTML and CSS. Designed for restaurants and cafes, it features a clean layout with categorized food items and prices. The project focuses on simplicity, responsiveness, and visual appeal without using JavaScript.
+A responsive digital menu card built using HTML and CSS. Designed for restaurants and cafes, it features a clean layout with categorized food items and prices. The project focuses on simplicity, responsiveness, and visual appeal without using JavaScript.
